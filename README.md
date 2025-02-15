@@ -1,4 +1,7 @@
-![logo](https://github.com/schizopup/Linux-Imaginary-iso/blob/main/logo_small.png)
+<p align="center">
+  <img src="https://github.com/schizopup/Linux-Imaginary-iso/blob/main/logo_medium.png"/>
+</p>
+
 # Linux Imaginary 0.5.X (Sachiel)
 
 ### THE ISO IS TOO BIG FOR GITHUB, PLEASE GO TO : <https://dumbestgirla.live/linuximaginary/current/linuximaginary-current-x86_64.iso>
