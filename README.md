@@ -18,6 +18,11 @@ This project was mainly to help myself learn better bash and the backend of how 
 <br/>
 <br/>
 
+### System info binaries other than neofetch are currently not natively supporting the distro ascii, however the file for the ascii can be found in your root directory post install
+
+<br/>
+<br/>
+
 ## Every version so far is bundled with :
 >yazi
 >
