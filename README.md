@@ -19,14 +19,23 @@ This project was mainly to help myself learn better bash and the backend of how 
 
 ## Every version so far is bundled with :
 >yazi
+>
 >neofetch
+>
 >xorg
+>
 >the proper drivers for your system
+>
 >kitty terminal
+>
 >firefox
+>
 >ly display manager
+>
 >vim
+>
 >w3m (in case youre on a server setup)
+
 The other packages may change depending on DE / WM you choose as well as if you decided to have a minimal or full installation of the OS
 
 
