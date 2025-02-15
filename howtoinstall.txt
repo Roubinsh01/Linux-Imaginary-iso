@@ -1,17 +1,17 @@
 To install Linux Imaginary follow the installation guide:
 
--1 |Open the live iso
-   |
-0  |Connect to the internet
-0.1|systemctl start NetworkManager
-0.2|nmtui
-   |
-1  |Go into the installer and add execute permissions
-1.1|cd LinuxImaginaryInstaller
-1.2|chmod +x install.sh
-   |
-2  |Launch the installer!
-2.1|./install.sh
+-1  | Open the live iso
+    |
+0   | Connect to the internet
+0.1 | systemctl start NetworkManager
+0.2 | nmtui
+    |
+1   | Go into the installer and add execute permissions
+1.1 | cd LinuxImaginaryInstaller
+1.2 | chmod +x install.sh
+    |
+2   | Launch the installer!
+2.1 | ./install.sh
 
 Your new system will be ready soon
 
