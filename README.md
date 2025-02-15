@@ -1,9 +1,15 @@
 This is my custom arch based distro called Linux Imaginary, its still in development. This is version 0.5.X (Sachiel).
 
+
+
 This live iso comes with nmtui for easy access to the internet, as well as vim for any potential modification that must be made.
 The real nice part about this puppy right here is the auto installer. All in CLI, you choose your user, your passwd, hostname, disk to format, you choose your DE / WM and it does all the rest of the job itself!
 
+
+
 Neofetch is repackaged and pre installed in every install, repackaged for that sweet sweet custom ascii. More repackaged will be added if you ask for it.
+
+
 
 This project was mainly to help myself learn better bash and the backend of how linux works. I have installed arch manually many times but, and I have done LFS, but I wanted to test out if I could make an automatic install script for my own distro.
 
@@ -13,9 +19,14 @@ I dont expect this OS to gain any traction, its pretty much just a fun project f
 
 THE ISO IS TOO BIG FOR GITHUB, PLEASE GO TO <https://dumbestgirla.live/linuximaginary/current/linuximaginary-0.5.6_x86-64.iso>
 
+
+
 !!!!!!!!!
+
   MOTD
+  
 !!!!!!!!!
+
 
 I am trying to find a way to also repackage hyfetch at this moment. Hyfetch locks people from repackaging it to stop right wing trolls from adding offensive flags, which i understand, but it also means that until i can find a way to repackage it with the current distro ascii, an alias needs to be made in my bash/zsh config.
 
