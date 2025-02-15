@@ -3,11 +3,12 @@
 </p>
 
 # Linux Imaginary 0.5.X (Sachiel)
-### THE ISO IS TOO BIG FOR GITHUB, PLEASE GO TO : <https://dumbestgirla.live/linuximaginary/current/linuximaginary-current-x86_64.iso>
+
 ### CURRENT VERSION 0.5.8
+
 <br/>
 This is my custom Arch based distro called Linux Imaginary, its still in development. This is version 0.5.X (Sachiel). This live iso comes with nmtui for easy access to the internet, as well as vim for any potential modification that must be made.
-The real nice part about this puppy right here is the auto installer. All in CLI, you choose your user, your passwd, hostname, disk to format, you choose your DE / WM and it does all the rest of the job itself! 
+The real nice part about this puppy right here is the auto installer. All in CLI, you choose your user, your passwd, hostname, disk to format, you choose your DE / WM and it does all the rest of the job itself!
 <br/>
 <h3> Screenshots of the live iso and the end product at the end. </h3>
 
@@ -26,7 +27,8 @@ This project was mainly to help myself learn better bash and the backend of how 
 
 <br/>
 
-## Every version so far is bundled with :
+## Every version so far is bundled with
+>
 >yazi
 >
 >neofetch
@@ -47,12 +49,10 @@ This project was mainly to help myself learn better bash and the backend of how 
 
 The other packages may change depending on DE / WM you choose as well as if you decided to have a minimal or full installation of the OS.
 
-
 <br/>
 <br/>
 
 ## current version message
-
 
 >
 >BSPWM auto install currently does NOT work, at least it doesnt when I try on my VM
@@ -73,7 +73,6 @@ Fixing my custom rice on BSPWM auto install
 Optimizing the system
 
 Removing as much bloat as I can from the installer and the post install script
-
 
 Making the installer itself faster
 <br/>
