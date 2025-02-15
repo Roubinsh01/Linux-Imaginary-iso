@@ -27,6 +27,8 @@ THE ISO IS TOO BIG FOR GITHUB, PLEASE GO TO <https://dumbestgirla.live/linuximag
   
 !!!!!!!!!
 
+BSPWM auto install currently does NOT work, at least it doesnt when I try on my VM
+
 
 I am trying to find a way to also repackage hyfetch at this moment. Hyfetch locks people from repackaging it to stop right wing trolls from adding offensive flags, which i understand, but it also means that until i can find a way to repackage it with the current distro ascii, an alias needs to be made in my bash/zsh config.
 
