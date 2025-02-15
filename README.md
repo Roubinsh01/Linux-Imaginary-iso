@@ -15,6 +15,23 @@ Neofetch is repackaged and pre installed in every install, repackaged for that s
 This project was mainly to help myself learn better bash and the backend of how linux works. I have installed arch manually many times but, and I have done LFS, but I wanted to test out if I could make an automatic install script for my own distro. The installer does borrow parts from ArchTitus due to it being used as my primary inspiration for this installer, so thank you to Chris Titus in a way I dont expect this OS to gain any traction, its pretty much just a fun project for me also an auto installer cause i reinstall linux so much, so if anyone actually uses this, thank you
 
 <br/>
+<br/>
+
+## Every version so far is bundled with :
+>yazi
+>neofetch
+>xorg
+>the proper drivers for your system
+>kitty terminal
+>firefox
+>ly display manager
+>vim
+>w3m (in case youre on a server setup)
+The other packages may change depending on DE / WM you choose as well as if you decided to have a minimal or full installation of the OS
+
+
+<br/>
+<br/>
 
 ## current version message
 
