@@ -64,6 +64,19 @@ The other packages may change depending on DE / WM you choose as well as if you 
 <br/>
 <br/>
 
+<h2> What needs to be changed</h2>
+> Adding the possibility to keep the old home partition
+>
+> Fixing my custom rice on BSPWM auto install
+>
+> Optimizing the system
+>
+> Removing as much bloat as I can from the installer and the post install script
+>
+> Making the installer itself faster
+<br/>
+<br/>
+
 <p align="center">
   <h1 align="center">Screenshot of the live iso</h1>
   <br/>
