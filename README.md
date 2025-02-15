@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/schizopup/Linux-Imaginary-iso/blob/main/logo_medium.png"/>
+  <img src="https://github.com/schizopup/Linux-Imaginary-iso/blob/main/images/logo_medium.png"/>
 </p>
 
 # Linux Imaginary 0.5.X (Sachiel)
@@ -82,8 +82,8 @@ Making the installer itself faster
 <p align="center">
   <h1 align="center">Screenshot of the live iso</h1>
   <br/>
-  <img src="https://github.com/schizopup/Linux-Imaginary-iso/blob/main/screenshot1.png"/>
+  <img src="https://github.com/schizopup/Linux-Imaginary-iso/blob/main/images/screenshot1.png"/>
   <br/>
   <h1 align="center">Screenshot of the end product (using the budgie configuration during install) </h1>
-  <img src="https://github.com/schizopup/Linux-Imaginary-iso/blob/main/screenshot2.png"/>
+  <img src="https://github.com/schizopup/Linux-Imaginary-iso/blob/main/images/screenshot2.png"/>
 </p>
