@@ -1,7 +1,7 @@
 ![logo](https://github.com/schizopup/Linux-Imaginary-iso/blob/main/logo_small.png)
 # Linux Imaginary 0.5.x (Sachiel)
 
-### THE ISO IS TOO BIG FOR GITHUB, PLEASE GO TO : <https://dumbestgirla.live/linuximaginary/current/linuximaginary-0.5.6_x86-64.iso>
+### THE ISO IS TOO BIG FOR GITHUB, PLEASE GO TO : <https://dumbestgirla.live/linuximaginary/current/linuximaginary-current-x86_64.iso>
 
 <br/>
 This is my custom arch based distro called Linux Imaginary, its still in development. This is version 0.5.X (Sachiel). This live iso comes with nmtui for easy access to the internet, as well as vim for any potential modification that must be made.
