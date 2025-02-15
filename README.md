@@ -13,9 +13,9 @@ I dont expect this OS to gain any traction, its pretty much just a fun project f
 
 THE ISO IS TOO BIG FOR GITHUB, PLEASE GO TO <https://dumbestgirla.live/linuximaginary/current/linuximaginary-0.5.6_x86-64.iso>
 
-/////////
+!!!!!!!!!
   MOTD
-\\\\\\\\\
+!!!!!!!!!
 
 I am trying to find a way to also repackage hyfetch at this moment. Hyfetch locks people from repackaging it to stop right wing trolls from adding offensive flags, which i understand, but it also means that until i can find a way to repackage it with the current distro ascii, an alias needs to be made in my bash/zsh config.
 
