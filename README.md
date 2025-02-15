@@ -52,4 +52,4 @@ The other packages may change depending on DE / WM you choose as well as if you 
 >
 >I am trying to find a way to also repackage hyfetch at this moment. Hyfetch locks people from repackaging it to stop right wing trolls from adding offensive flags, which >i understand, but it also means that until i can find a way to repackage it with the current distro ascii, an alias needs to be made in my bash/zsh config.
 >
->Currently also trying to optimize it. 0.5.6 is the first public build as some of my friends and classmates wanted to try the OS for themselves, but the OS is nowhere >near complete, its still too close to arch for me to truly call it my own, in either way its here and god knows its queer
+>Currently also trying to optimize it. 0.5.6 is the first public build as some of my friends and classmates wanted to try the OS for themselves, but the OS is nowhere near complete, its still too close to arch for me to truly call it my own, in either way its here and god knows its queer
