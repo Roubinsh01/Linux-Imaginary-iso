@@ -2,7 +2,7 @@
 # Linux Imaginary 0.5.X (Sachiel)
 
 ### THE ISO IS TOO BIG FOR GITHUB, PLEASE GO TO : <https://dumbestgirla.live/linuximaginary/current/linuximaginary-current-x86_64.iso>
-### CURRENT VERSION 0.5.7
+### CURRENT VERSION 0.5.8
 <br/>
 This is my custom arch based distro called Linux Imaginary, its still in development. This is version 0.5.X (Sachiel). This live iso comes with nmtui for easy access to the internet, as well as vim for any potential modification that must be made.
 The real nice part about this puppy right here is the auto installer. All in CLI, you choose your user, your passwd, hostname, disk to format, you choose your DE / WM and it does all the rest of the job itself!
