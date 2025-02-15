@@ -13,7 +13,9 @@ Neofetch is repackaged and pre installed in every install, repackaged for that s
 <br/>
 
 <br/>
-This project was mainly to help myself learn better bash and the backend of how linux works. I have installed arch manually many times but, and I have done LFS, but I wanted to test out if I could make an automatic install script for my own distro. The installer does borrow parts from ArchTitus due to it being used as my primary inspiration for this installer, so thank you to Chris Titus in a way I dont expect this OS to gain any traction, its pretty much just a fun project for me also an auto installer cause i reinstall linux so much, so if anyone actually uses this, thank you
+This project was mainly to help myself learn better bash and the backend of how linux works. I have installed arch manually many times but, and I have done LFS, but I wanted to test out if I could make an automatic install script for my own distro. The installer does borrow parts from ArchTitus due to it being used as my primary inspiration for this installer, so thank you to Chris Titus in a way.
+
+I dont expect this OS to gain any traction, its pretty much just a fun project for me also an auto installer cause i reinstall linux so much, so if anyone actually uses this, thank you
 
 <br/>
 <br/>
