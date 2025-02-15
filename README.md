@@ -8,7 +8,7 @@ The real nice part about this puppy right here is the auto installer. All in CLI
 
 <br/>
 <br/>
-Neofetch is repackaged and pre installed in every install, repackaged for that sweet sweet custom ascii. More repackaged will be added if you ask for it.
+Neofetch is repackaged and pre installed in every install, repackaged for that sweet sweet custom ascii. More repackaged programs will be added if you ask for it.
 <br/>
 
 <br/>
