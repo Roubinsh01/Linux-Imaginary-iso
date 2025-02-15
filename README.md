@@ -65,6 +65,7 @@ The other packages may change depending on DE / WM you choose as well as if you 
 <br/>
 
 <h2> What needs to be changed</h2>
+
 Adding the possibility to keep the old home partition
 
 Fixing my custom rice on BSPWM auto install
