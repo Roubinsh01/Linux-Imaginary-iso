@@ -5,10 +5,14 @@
 # Linux Imaginary 0.5.X (Sachiel)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### CURRENT VERSION 0.5.10
 =======
 ### CURRENT VERSION 0.5.9
 >>>>>>> refs/remotes/origin/main
+=======
+### CURRENT VERSION 0.5.10
+>>>>>>> cc0a31dd3d470889cbc499a6fc6c83107c380ad5
 
 <h2>Currently working on the custom kernel, for now the kernel is linux zen</h2>
 
